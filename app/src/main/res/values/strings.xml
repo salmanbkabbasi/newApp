@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyAdvancedApp</string>
+    
+    <!-- Login Screen -->
+    <string name="welcome">Welcome</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Login</string>
+    <string name="error_fill_fields">Please fill in all fields</string>
+    
+    <!-- Main Screen -->
+    <string name="menu_switch_theme">Switch Theme</string>
+    <string name="menu_theme_light">Light Theme</string>
+    <string name="menu_theme_dark">Dark Theme</string>
+    <string name="menu_theme_custom">Custom Theme</string>
+    <string name="menu_logout">Logout</string>
+    
+    <!-- Popup & Context Menu -->
+    <string name="popup_info">Info</string>
+    <string name="popup_share">Share</string>
+    <string name="ctx_delete">Delete</string>
+    <string name="ctx_edit">Edit</string>
+    <string name="msg_user_deleted">User deleted locally</string>
+    
+    <!-- General -->
+    <string name="error_network">Network Error: Loading from DB</string>
+    <string name="error_fetch_failed">Failed to fetch data</string>
+</resources>
